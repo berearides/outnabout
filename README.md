@@ -2,12 +2,21 @@
 CSC 498 - fall 2024
 
 ### Data 
-plots > csv file
-Variables legends: 
+
+location of the data file: plots > csv file
+
+**__Variables legends:__**
 
 | Survey Question | Column Label |
 |---|---|
 | What is your classification? | classification|
-|Do you own a car?| carOwner|
 | Do you live on or off campus? (Eco Village is considered on-campus housing) | housing_type| 
-|Since the beginning of the Fall semester, how often have you participated in social events on campus?||
+|Do you own a car?| carOwner|
+|Since the beginning of the Fall semester, how often have you participated in social events on campus?|freq_social_oncampus|
+|Since the beginning of the Fall semester, how often have you attended off-campus social events? |freq_social_offcampus|
+|How do you typically find out about social events happening on or around campus?|info_methods|
+|Select the apps you use to stay informed about social events or to organize meetups. Check all that apply|apps_used|
+|Indicate the type of calendar to schedule your social events, if any|cal_type|
+|What challenges do you face in attending social events on campus? |challenges_oncampus|
+|What challenges do you face in attending social events off campus? |challenges_offcampus|
+|On a scale of 1-5, how difficult is it for you to find transportation for off-campus events? Very Easy - Very Difficult|trans_diffic|
