@@ -5,7 +5,7 @@ Independent, student-led research project. OutnAbout is a mobile application tha
 ### Contributors
 
 - Belen Saavedra
-- Savannah Mccoy 
+- Savannah McCoy 
 - Eber Seco-Lima
 
 - Prof. Deanna Wilborne (mentor)
