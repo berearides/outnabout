@@ -1,9 +1,19 @@
-# outnabout
-CSC 498 - fall 2024
+# Outnabout, Social Mobile App for College Students 
 
-### Data 
+Independent, student led research project. OutnAbout is a mobile application that aims to facilitate the process of making plans among college students to increase engagement and indirectly solve the transportation problem.
 
-location of the data file: plots > csv file
+### Contributors
+
+Belen Saavedra
+Savannah Mccoy 
+Eber Seco-Lima
+
+Prof. Deanna Wilborne (mentor)
+Dr. Jasmine Jones (mentor)
+
+### Survey
+
+location of the data file: plots > data > csv files
 
 **__Variables legends:__**
 
