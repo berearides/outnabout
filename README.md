@@ -1,15 +1,15 @@
 # Outnabout, Social Mobile App for College Students 
 
-Independent, student led research project. OutnAbout is a mobile application that aims to facilitate the process of making plans among college students to increase engagement and indirectly solve the transportation problem.
+Independent, student-led research project. OutnAbout is a mobile application that aims to facilitate the process of making plans among college students to increase engagement and indirectly solve the transportation problem.
 
 ### Contributors
 
-Belen Saavedra
-Savannah Mccoy 
-Eber Seco-Lima
+- Belen Saavedra
+- Savannah Mccoy 
+- Eber Seco-Lima
 
-Prof. Deanna Wilborne (mentor)
-Dr. Jasmine Jones (mentor)
+- Prof. Deanna Wilborne (mentor)
+- Dr. Jasmine Jones (mentor)
 
 ### Survey
 
